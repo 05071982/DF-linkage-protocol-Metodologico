@@ -4,7 +4,7 @@
 
 O protocolo reconstrói a trajetória de cada pessoa com DF — do nascimento e da triagem neonatal à notificação, ao atendimento ambulatorial, à internação e ao óbito — integrando seis sistemas em **duas trilhas analíticas** e um **linkage final**.
 
-![Esquema de integração](../images/fig2_integration_scheme.png)
+![Esquema de integração](../images/fig2_integration_scheme_pt.png)
 
 | Trilha | Sistemas | Papel |
 |---|---|---|
@@ -28,13 +28,13 @@ Extrações brutas dos SIS
 
 ## Fluxo de registros
 
-![Fluxo de registros](../images/fig3_record_flow.png)
+![Fluxo de registros](../images/fig3_record_flow_pt.png)
 
 ## Trajetórias de casos (ilustrativas, casos fictícios)
 
 Cada linha é uma pessoa; cada célula mostra o sistema em que ela foi registrada naquele ano. O linkage une esses registros dispersos em uma única trajetória.
 
-![Trajetórias de casos](../images/fig1_case_trajectories.png)
+![Trajetórias de casos](../images/fig1_case_trajectories_pt.png)
 
 ## Códigos de status do linkage
 

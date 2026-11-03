@@ -4,7 +4,7 @@
 
 **Linkage de seis sistemas de informação em saúde brasileiros para estimar incidência, prevalência e mortalidade por doença falciforme (DF) — Bahia, 2010–2022.**
 
-![Esquema de integração](images/fig2_integration_scheme.png)
+![Esquema de integração](images/fig2_integration_scheme_pt.png)
 
 Esta wiki documenta, passo a passo, o protocolo metodológico descrito no artigo:
 
