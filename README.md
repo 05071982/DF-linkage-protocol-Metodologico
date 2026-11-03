@@ -11,7 +11,8 @@ Alteryx workflows and R code for the record-linkage protocol that integrates six
 | `workflows/` | `Track1_VitalData.yxmd`, `Track2_Morbidity.yxmd`, `FinalLinkage.yxmd` (Alteryx Designer 2024.2) |
 | `R/` | `ahp_underreporting.R` — AHP underreporting correction factor (base R) |
 | `images/` | Article figures and Alteryx workflow screenshots |
-| `docs/` | Full documentation (copy of the wiki, archived with each release) |
+| `docs/` | Full documentation (archived with each release) |
+| `wiki/` | Wiki source — published automatically to the repository Wiki |
 | `data/`, `output/` | Empty — input data are **not** distributed |
 
 📖 **Documentation:** see the [Wiki](https://github.com/05071982/DF-linkage-protocol-Metodologico/wiki) or [`docs/Home.md`](docs/Home.md).
