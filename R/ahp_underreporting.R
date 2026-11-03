@@ -103,8 +103,8 @@ cat(sprintf("\nlambda_max = %.4f | CI = %.4f | CR = %.4f -> %s\n",
             ifelse(cr["CR"] < 0.10, "consistent (CR < 0.10)", "NOT consistent - revise judgements")))
 cat("\nMean normal-CDF probability per indicator:\n"); print(round(p, 4))
 cat(sprintf("\nCorrection factor F = %.4f\n", F_corr))
-cat(sprintf("Example: observed incidence 132.64 per 100,000 live births -> adjusted %.2f\n",
-            adjust(132.64499952873092)))
+cat(sprintf("Hypothetical example: observed rate 100 per 100,000 -> adjusted %.2f per 100,000\n",
+            adjust(100)))
 
 # Sensitivity analysis: each indicator standardised by its own distribution
 F_own <- sum(w * indicator_probability(u, "own"))

@@ -49,7 +49,7 @@ For each system, `u = (Expected − Observed) / Observed`. Ratios are converted 
 
 ```
 Adjusted estimate = Observed estimate × (1 + F)
-Example: 132.64 per 100,000 live births × 1.3923 = 184.68 per 100,000
+Hypothetical example: 100 per 100,000 live births × 1.3923 = 139.23 per 100,000
 ```
 
 The factor was applied to incidence and prevalence. It was **not** applied to mortality, because SIM is less affected by underreporting; SIA/SIH were used only to identify presumed deaths.

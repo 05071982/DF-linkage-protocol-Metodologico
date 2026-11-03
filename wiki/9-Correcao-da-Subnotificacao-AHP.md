@@ -49,7 +49,7 @@ Para cada sistema, `u = (Esperado − Observado) / Observado`. As razões são c
 
 ```
 Estimativa ajustada = Estimativa observada × (1 + F)
-Exemplo: 132,64 por 100 mil nascidos vivos × 1,3923 = 184,68 por 100 mil
+Exemplo hipotético: 100 por 100 mil nascidos vivos × 1,3923 = 139,23 por 100 mil
 ```
 
 O fator foi aplicado à incidência e à prevalência. **Não** foi aplicado à mortalidade, porque o SIM é menos afetado pela subnotificação; SIA e SIH serviram apenas para identificar óbitos presumidos.
