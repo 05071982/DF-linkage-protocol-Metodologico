@@ -1,0 +1,10 @@
+# Never commit individual-level data
+data/*
+!data/README.md
+output/*
+!output/.gitkeep
+*.yxdb
+*.xlsx
+*.csv
+.Rhistory
+.RData

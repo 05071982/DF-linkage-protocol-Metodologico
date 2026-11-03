@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use these workflows, please cite them as below."
+title: "Data qualification protocol for sickle cell disease indicators: record linkage of Brazilian health information systems (Bahia, 2010-2022)"
+type: software
+license: MIT
+version: "1.0.0"
+date-released: "2026-11-02"
+authors:
+  - family-names: "Leal"
+    given-names: "Jessidenes Teixeira de Freitas Mendes"
+    affiliation: "Instituto de Saúde Coletiva, Universidade Federal da Bahia"
+  - family-names: "Nery"
+    given-names: "Joilda Silva"
+  - family-names: "Pereira"
+    given-names: "Júlio César Leal"
+  - family-names: "Mota"
+    given-names: "Eduardo Luiz Andrade"
+  - family-names: "Britto"
+    given-names: "Cristina Canavarro Rodrigues Fuezi"
+  - family-names: "Andrade"
+    given-names: "Joselito Ramos de"
+  - family-names: "Carvalho-Sauer"
+    given-names: "Rita de Cássia Oliveira de"
+  - family-names: "Ramos"
+    given-names: "Dandara de Oliveira"
+  - family-names: "Mota"
+    given-names: "Clarice Santos"
+keywords: ["sickle cell disease", "record linkage", "data quality", "health information systems", "Brazil", "Alteryx", "AHP"]
