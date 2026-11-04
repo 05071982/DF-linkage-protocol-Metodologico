@@ -30,7 +30,7 @@ Input data are **not** distributed. They must be requested from the data custodi
 ## Order of execution
 1. `Track1_VitalData.yxmd` → writes the Track 1 base to `output/`.
 2. `Track2_Morbidity.yxmd` → writes the Track 2 base to `output/`.
-3. Copy the track bases to `data/` with the names expected by the final workflow.
+3. Auxiliary export (deterministic step): from the Track 1 and Track 2 outputs, export the deterministic-linkage bases expected by the final workflow — `Trilha1_Vitais_Nova.yxdb`, `Trilha2_Morbidades_Nova.yxdb` and `Encontrados_Trilhs1_e_2_determinístico.yxdb` (pairs matched on the exact composite key between the two tracks) — and place them in `data/`.
 4. `FinalLinkage.yxmd` → consolidated base and validation samples.
 
 ## Adapting to other contexts

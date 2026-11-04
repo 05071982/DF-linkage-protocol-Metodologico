@@ -30,7 +30,7 @@ Os dados de entrada **não** são distribuídos. Devem ser solicitados aos deten
 ## Ordem de execução
 1. `Track1_VitalData.yxmd` → grava a base da Trilha 1 em `output/`.
 2. `Track2_Morbidity.yxmd` → grava a base da Trilha 2 em `output/`.
-3. Copie as bases das trilhas para `data/` com os nomes esperados pelo fluxo final.
+3. Exportação auxiliar (etapa determinística): a partir das saídas das Trilhas 1 e 2, exporte as bases do linkage determinístico esperadas pelo fluxo final — `Trilha1_Vitais_Nova.yxdb`, `Trilha2_Morbidades_Nova.yxdb` e `Encontrados_Trilhs1_e_2_determinístico.yxdb` (pares encontrados pela chave composta exata entre as duas trilhas) — e coloque-as em `data/`.
 4. `FinalLinkage.yxmd` → base consolidada e amostras para validação.
 
 ## Adaptando a outros contextos
