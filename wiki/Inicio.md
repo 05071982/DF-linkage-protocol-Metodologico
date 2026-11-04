@@ -8,7 +8,7 @@
 
 Esta wiki documenta, passo a passo, o protocolo metodológico descrito no artigo:
 
-> Leal JTFM, Nery JS, Pereira JCL, Mota ELA, Britto CCRF, Andrade JR, Carvalho-Sauer RCO, Ramos DO, Mota CS. *Methodologies for the qualification of data applied to the production of epidemiological indicators of sickle cell disease.* (manuscrito em avaliação)
+> Leal JTFM, Nery JS, Pereira JCL, Mota ELA, Britto CCRF, Andrade JR, Natividade MS, Carvalho-Sauer RCO, Ramos DO, Mota CS. *Methodologies for the qualification of data applied to the production of epidemiological indicators of sickle cell disease.* (manuscrito em avaliação)
 
 ## Por que este protocolo?
 

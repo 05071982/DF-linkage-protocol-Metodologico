@@ -3,7 +3,7 @@
 # 13. References and how to cite
 
 ## How to cite
-> Leal JTFM, Nery JS, Pereira JCL, Mota ELA, Britto CCRF, Andrade JR, Carvalho-Sauer RCO, Ramos DO, Mota CS. Methodologies for the qualification of data applied to the production of epidemiological indicators of sickle cell disease. Manuscript under review; 2026.
+> Leal JTFM, Nery JS, Pereira JCL, Mota ELA, Britto CCRF, Andrade JR, Natividade MS, Carvalho-Sauer RCO, Ramos DO, Mota CS. Methodologies for the qualification of data applied to the production of epidemiological indicators of sickle cell disease. Manuscript under review; 2026.
 
 Software and documentation: see `CITATION.cff` in the repository (Zenodo DOI to be added at release).
 
