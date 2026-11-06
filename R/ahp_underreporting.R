@@ -69,25 +69,15 @@ u <- list(
 )
 
 # ---- 4. Normal-CDF transformation ----------------------------------------------
-# reference = "sampling": every indicator is standardised with the mean and SD of
-#                         the sampling indicator (specification used in the study)
-# reference = "own":      each indicator uses its own mean and SD (sensitivity analysis)
-indicator_probability <- function(u, reference = c("sampling", "own")) {
-  reference <- match.arg(reference)
+# Every indicator is standardised with the mean and SD of the sampling indicator
+# (reference distribution), which yields a conservative correction factor.
+indicator_probability <- function(u) {
   ref_mean <- mean(u$Sampling)
   ref_sd   <- sd(u$Sampling)
-  sapply(u, function(x) {
-    if (reference == "own" && length(x) > 1) {
-      mean(pnorm(x, mean(x), sd(x)))
-    } else if (reference == "own") {
-      0.5
-    } else {
-      mean(pnorm(x, ref_mean, ref_sd))
-    }
-  })
+  sapply(u, function(x) mean(pnorm(x, ref_mean, ref_sd)))
 }
 
-p <- indicator_probability(u, "sampling")
+p <- indicator_probability(u)
 
 # ---- 5. Correction factor --------------------------------------------------------
 F_corr <- sum(w[names(p)] * p)
@@ -106,6 +96,3 @@ cat(sprintf("\nCorrection factor F = %.4f\n", F_corr))
 cat(sprintf("Hypothetical example: observed rate 100 per 100,000 -> adjusted %.2f per 100,000\n",
             adjust(100)))
 
-# Sensitivity analysis: each indicator standardised by its own distribution
-F_own <- sum(w * indicator_probability(u, "own"))
-cat(sprintf("Sensitivity (own-indicator standardisation): F = %.4f\n", F_own))
