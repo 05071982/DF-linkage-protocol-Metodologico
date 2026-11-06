@@ -1,6 +1,6 @@
 # Sickle cell disease data qualification protocol
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23993752.svg)](https://doi.org/10.5281/zenodo.23993752)
+[![DOI](https://zenodo.org/badge/1443668612.svg)](https://doi.org/10.5281/zenodo.23993751)
 
 🌐 **English** · [Português](#português)
 

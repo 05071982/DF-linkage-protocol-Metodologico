@@ -2,7 +2,7 @@
 
 # Protocolo de qualificação de dados para indicadores de doença falciforme
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23993752.svg)](https://doi.org/10.5281/zenodo.23993752)
+[![DOI](https://zenodo.org/badge/1443668612.svg)](https://doi.org/10.5281/zenodo.23993751)
 
 **Linkage de seis sistemas de informação em saúde brasileiros para estimar incidência, prevalência e mortalidade por doença falciforme (DF) — Bahia, 2010–2022.**
 

@@ -2,7 +2,7 @@
 
 # Data qualification protocol for sickle cell disease indicators
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23993752.svg)](https://doi.org/10.5281/zenodo.23993752)
+[![DOI](https://zenodo.org/badge/1443668612.svg)](https://doi.org/10.5281/zenodo.23993751)
 
 **Record linkage of six Brazilian health information systems to estimate the incidence, prevalence and mortality of sickle cell disease (SCD) — Bahia, Brazil, 2010–2022.**
 

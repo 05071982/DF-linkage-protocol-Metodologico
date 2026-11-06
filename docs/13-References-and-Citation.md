@@ -8,7 +8,7 @@
 Software and documentation:
 > Leal JTFM, Nery JS, Pereira JCL, Mota ELA, Britto CCRF, Andrade JR, Natividade MS, Carvalho-Sauer RCO, Ramos DO, Mota CS. Data qualification protocol for sickle cell disease indicators: record linkage of Brazilian health information systems (Bahia, 2010–2022) [software]. Version 1.0.0. Zenodo; 2026. doi:10.5281/zenodo.23993752
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23993752.svg)](https://doi.org/10.5281/zenodo.23993752)
+[![DOI](https://zenodo.org/badge/1443668612.svg)](https://doi.org/10.5281/zenodo.23993751)
 
 ## Key references
 1. Fellegi IP, Sunter AB. A theory for record linkage. J Am Stat Assoc. 1969;64(328):1183–210.
