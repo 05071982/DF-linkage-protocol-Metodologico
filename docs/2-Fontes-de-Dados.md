@@ -8,7 +8,7 @@
 | **SINASC** — Sistema de Informações sobre Nascidos Vivos | Todos os nascidos vivos; variáveis da mãe e do parto | Bahia, 2010–2022 | 2.609.974 (referência) |
 | **SIM** — Sistema de Informações sobre Mortalidade | Declarações de óbito; causas básica e associadas | Residentes na Bahia, 2010–2022 | 1.395 → 1.395 |
 | **SINAN** — Sistema de Informação de Agravos de Notificação | Notificações de DF (compulsória na Bahia desde 2009/2017) | Residentes na Bahia, 2010–2022 | 4.963 → 4.802 |
-| **SIA/SUS** — Sistema de Informações Ambulatoriais | Procedimentos ambulatoriais (ex.: acompanhamento de hemoglobinopatias, Doppler transcraniano) | Apenas Salvador, 2010–2022 | 13.935 → 4.068 |
+| **SIA/SUS** — Sistema de Informações Ambulatoriais | Procedimentos ambulatoriais (ex.: acompanhamento de hemoglobinopatias, Doppler transcraniano) | Apenas Salvador, 2010–2022 | 13.935 → 4.068 (3 excluídos; 9.864 duplicados) |
 | **SIH/SUS** — Sistema de Informações Hospitalares | Internações | Apenas Salvador, 2010–2022 | 833 → 646 |
 
 ## Campos usados no linkage

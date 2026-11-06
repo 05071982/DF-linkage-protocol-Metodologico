@@ -8,7 +8,7 @@
 | **SINASC** — Live Birth Information System | All live births; maternal and birth variables | Bahia, 2010–2022 | 2,609,974 (reference) |
 | **SIM** — Mortality Information System | Death certificates; underlying and associated causes | Bahia residents, 2010–2022 | 1,395 → 1,395 |
 | **SINAN** — Notifiable Diseases Information System | SCD notifications (compulsory in Bahia since 2009/2017) | Bahia residents, 2010–2022 | 4,963 → 4,802 |
-| **SIA/SUS** — Outpatient Information System | Outpatient procedures (e.g. follow-up of haemoglobinopathies, transcranial Doppler) | Salvador only, 2010–2022 | 13,935 → 4,068 |
+| **SIA/SUS** — Outpatient Information System | Outpatient procedures (e.g. follow-up of haemoglobinopathies, transcranial Doppler) | Salvador only, 2010–2022 | 13,935 → 4,068 (3 excluded; 9,864 duplicates) |
 | **SIH/SUS** — Hospital Information System | Hospital admissions | Salvador only, 2010–2022 | 833 → 646 |
 
 ## Fields used for linkage
