@@ -1,5 +1,7 @@
 # Sickle cell disease data qualification protocol
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23993752.svg)](https://doi.org/10.5281/zenodo.23993752)
+
 🌐 **English** · [Português](#português)
 
 Alteryx workflows and R code for the record-linkage protocol that integrates six Brazilian health information systems (SINASC, PNTN, SIM, SINAN, SIA, SIH) to produce qualified incidence, prevalence and mortality indicators of sickle cell disease — Bahia, Brazil, 2010–2022.
@@ -19,7 +21,7 @@ Alteryx workflows and R code for the record-linkage protocol that integrates six
 
 **Data protection.** No individual-level data are included. Inputs must be requested from the data custodians under ethics approval.
 
-**Licence:** code MIT · documentation CC BY 4.0. **Citation:** see `CITATION.cff`.
+**Licence:** code MIT · documentation CC BY 4.0. **Citation:** see `CITATION.cff` · DOI [10.5281/zenodo.23993752](https://doi.org/10.5281/zenodo.23993752).
 
 ---
 

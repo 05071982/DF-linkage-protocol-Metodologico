@@ -4,6 +4,7 @@ title: "Data qualification protocol for sickle cell disease indicators: record l
 type: software
 license: MIT
 version: "1.0.0"
+doi: "10.5281/zenodo.23993752"
 date-released: "2026-11-02"
 repository-code: "https://github.com/05071982/DF-linkage-protocol-Metodologico"
 authors:

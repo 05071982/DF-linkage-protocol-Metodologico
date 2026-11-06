@@ -5,7 +5,10 @@
 ## Como citar
 > Leal JTFM, Nery JS, Pereira JCL, Mota ELA, Britto CCRF, Andrade JR, Natividade MS, Carvalho-Sauer RCO, Ramos DO, Mota CS. Methodologies for the qualification of data applied to the production of epidemiological indicators of sickle cell disease. Manuscrito em avaliação; 2026.
 
-Software e documentação: ver `CITATION.cff` no repositório (DOI do Zenodo será incluído na versão publicada).
+Software e documentação:
+> Leal JTFM, Nery JS, Pereira JCL, Mota ELA, Britto CCRF, Andrade JR, Natividade MS, Carvalho-Sauer RCO, Ramos DO, Mota CS. Data qualification protocol for sickle cell disease indicators: record linkage of Brazilian health information systems (Bahia, 2010–2022) [software]. Versão 1.0.0. Zenodo; 2026. doi:10.5281/zenodo.23993752
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23993752.svg)](https://doi.org/10.5281/zenodo.23993752)
 
 ## Referências principais
 1. Fellegi IP, Sunter AB. A theory for record linkage. J Am Stat Assoc. 1969;64(328):1183–210.
