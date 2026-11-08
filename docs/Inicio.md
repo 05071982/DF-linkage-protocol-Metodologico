@@ -16,7 +16,7 @@ Esta wiki documenta, passo a passo, o protocolo metodológico descrito no artigo
 
 O Brasil não tem um identificador único do paciente entre os sistemas de informação em saúde (SIS). Pessoas com DF aparecem várias vezes — ou nenhuma — nos registros de nascimento, triagem, notificação, atendimento ambulatorial, internação e óbito. Essa fragmentação gera subnotificação e mantém a doença invisível para o planejamento em saúde.
 
-O protocolo combina **linkage determinístico e probabilístico**, **desduplicação**, **validação manual** e **correção da subnotificação pelo AHP** para chegar a um registro por pessoa e produzir indicadores qualificados.
+O protocolo combina **linkage determinístico e por similaridade**, **desduplicação**, **validação manual** e **correção da subnotificação pelo AHP** para chegar a um registro por pessoa e produzir indicadores qualificados.
 
 ## Resumo
 

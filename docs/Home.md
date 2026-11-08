@@ -16,7 +16,7 @@ This wiki documents, step by step, the methodological protocol described in the 
 
 Brazil has no single patient identifier across its health information systems (HIS). People with SCD therefore appear several times — or not at all — in births, screening, notification, outpatient, hospital and mortality records. This fragmentation leads to underreporting and keeps the disease invisible to public health planning.
 
-The protocol combines **deterministic and probabilistic record linkage**, **deduplication**, **clerical validation** and an **AHP-based underreporting correction** to build one record per person and produce qualified indicators.
+The protocol combines **deterministic and similarity-based record linkage**, **deduplication**, **clerical validation** and an **AHP-based underreporting correction** to build one record per person and produce qualified indicators.
 
 ## At a glance
 

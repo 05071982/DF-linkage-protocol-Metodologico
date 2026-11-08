@@ -4,7 +4,7 @@
 
 | Ferramenta | Uso |
 |---|---|
-| Alteryx Designer 2024.2 | Preparação dos dados, linkage determinístico e probabilístico, desduplicação, amostragem para validação |
+| Alteryx Designer 2024.2 | Preparação dos dados, linkage determinístico e por similaridade, desduplicação, amostragem para validação |
 | R | Pesos do AHP, razão de consistência e fator de correção; análises estatísticas dos indicadores |
 | Microsoft Excel | Planilha original do AHP |
 

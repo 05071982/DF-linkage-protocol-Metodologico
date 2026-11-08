@@ -4,7 +4,7 @@
 
 | Tool | Use |
 |---|---|
-| Alteryx Designer 2024.2 | Data preparation, deterministic and probabilistic linkage, deduplication, sampling for validation |
+| Alteryx Designer 2024.2 | Data preparation, deterministic and similarity-based linkage, deduplication, sampling for validation |
 | R | AHP weights, consistency ratio and correction factor; statistical analyses of the indicators |
 | Microsoft Excel | Original AHP spreadsheet |
 

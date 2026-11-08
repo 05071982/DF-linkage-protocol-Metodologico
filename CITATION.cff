@@ -3,9 +3,9 @@ message: "If you use these workflows, please cite them as below."
 title: "Data qualification protocol for sickle cell disease indicators: record linkage of Brazilian health information systems (Bahia, 2010-2022)"
 type: software
 license: MIT
-version: "1.0.0"
-doi: "10.5281/zenodo.23993752"
-date-released: "2026-11-02"
+version: "1.0.1"
+doi: "10.5281/zenodo.23993751"
+date-released: "2026-11-08"
 repository-code: "https://github.com/05071982/DF-linkage-protocol-Metodologico"
 authors:
   - family-names: "Leal"

@@ -2,9 +2,9 @@
 
 # 8. Validation
 
-Linked pairs were reviewed by **three external validators** from the municipal and state health departments, each with expertise in the systems under review. All signed a confidentiality agreement (Data Linkage Validation Consent Form).
+Linked pairs were reviewed by **three validators** — members of the research team who work in the municipal and state health departments — each with expertise in the systems under review. The third validator reviewed the cross-track pairs, including all pairs involving the PNTN. All signed a confidentiality agreement (Data Linkage Validation Consent Form).
 
-Random samples of linked pairs were exported from the final workflow (Alteryx *Random % Sample*) with all identifying fields side by side, sorted by match score, for manual classification as true or false pairs.
+A random sample of 4% of the records of each track was drawn and its linked pairs were exported (Alteryx *Random % Sample*) with all identifying fields side by side, sorted by match score, for manual classification as true or false pairs.
 
 ## Results
 

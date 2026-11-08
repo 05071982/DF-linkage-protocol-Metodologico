@@ -2,9 +2,9 @@
 
 # 8. Validação
 
-Os pares foram revisados por **três validadores externos** das secretarias municipal e estadual de saúde, cada um especialista nos sistemas revisados. Todos assinaram um termo de confidencialidade (Termo de Consentimento para Validação do Linkage).
+Os pares foram revisados por **três validadores** — membros da equipe de pesquisa que atuam nas secretarias municipal e estadual de saúde —, cada um especialista nos sistemas revisados. O terceiro validador revisou os pares entre as trilhas, incluindo todos os pares que envolvem o PNTN. Todos assinaram um termo de confidencialidade (Termo de Consentimento para Validação do Linkage).
 
-Amostras aleatórias dos pares foram exportadas do fluxo final (*Random % Sample* do Alteryx), com os campos de identificação lado a lado e ordenados pelo escore, para classificação manual em pares verdadeiros ou falsos.
+Foi sorteada uma amostra aleatória de 4% dos registros de cada trilha, e seus pares foram exportados (*Random % Sample* do Alteryx), com os campos de identificação lado a lado e ordenados pelo escore, para classificação manual em pares verdadeiros ou falsos.
 
 ## Resultados
 
