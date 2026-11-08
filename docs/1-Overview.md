@@ -22,7 +22,7 @@ Raw HIS extracts
                      └─► Track 1 linkage  ┐
                      └─► Track 2 linkage  ┴─► Final linkage ─► Sequential deduplication
                                                                  └─► Clerical validation
-                                                                       └─► Consolidated base (N = 11,536)
+                                                                       └─► Consolidated base (N = 9,664)
                                                                              └─► Indicators + AHP correction
 ```
 

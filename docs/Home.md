@@ -25,7 +25,7 @@ The protocol combines **deterministic and similarity-based record linkage**, **d
 | Information systems | SINASC, PNTN, SIM, SINAN, SIA, SIH |
 | Period | 2010–2022 |
 | Linkage tool | Alteryx Designer (Fuzzy Match, Double Metaphone, Jaro–TF-IDF) |
-| Final consolidated base | **11,536 people with SCD** |
+| Final consolidated base | **9,664 people with SCD records** |
 | Positive predictive value of linked pairs | **92.4%** (95% CI 91.1–93.5; 1,806 pairs reviewed) |
 | Underreporting correction factor (AHP) | **F = 0.3923** (CR = 0.015) |
 

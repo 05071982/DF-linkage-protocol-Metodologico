@@ -12,15 +12,19 @@ Workflow: [`workflows/FinalLinkage.yxmd`](../blob/main/workflows/FinalLinkage.yx
 4. **Classification** — found in both tracks / Track 1 only / Track 2 only. Agreement of the date of birth between tracks is flagged (`Mesma_data_Nasc`) to support clerical review.
 5. **Sequential deduplication** — unique records across all key variants. PNTN records are re-instated after deduplication, so no screened birth is lost.
 6. **Clerical validation** — see [Validation](8-Validation).
-7. **Output** — consolidated base of **11,536 people with SCD**.
+7. **Output** — consolidated base of **9,664 people with SCD records**.
 
-## From 13,752 records to 11,536 people
+## From 13,752 records to 9,664 people
 
 | | n |
 |---|---|
 | Sum of unique records per system (excluding SINASC) | 13,752 |
-| Redundant records merged by linkage (within and between tracks) | − 2,216 |
-| **Final consolidated base** | **11,536** |
+| Redundant records merged by linkage (within and between tracks) | − 4,088 |
+| **Final consolidated base** | **9,664** |
+| of whom: died during the period (SIM) | 1,395 |
+| of whom: no death record | 8,269 |
+
+These are **observed counts**. Incidence and prevalence estimates are obtained afterwards (AHP correction followed by Bayesian estimation with priors from previous studies) and are reported in the separate outcome articles.
 
 ## Alteryx canvas
 

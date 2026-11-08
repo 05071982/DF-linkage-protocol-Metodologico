@@ -25,7 +25,7 @@ O protocolo combina **linkage determinístico e por similaridade**, **desduplica
 | Sistemas | SINASC, PNTN, SIM, SINAN, SIA, SIH |
 | Período | 2010–2022 |
 | Ferramenta de linkage | Alteryx Designer (Fuzzy Match, Double Metaphone, Jaro–TF-IDF) |
-| Base final consolidada | **11.536 pessoas com DF** |
+| Base final consolidada | **9.664 pessoas com registro de DF** |
 | Valor preditivo positivo dos pares | **92,4%** (IC95% 91,1–93,5; 1.806 pares revisados) |
 | Fator de correção da subnotificação (AHP) | **F = 0,3923** (RC = 0,015) |
 

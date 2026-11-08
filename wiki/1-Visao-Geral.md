@@ -22,7 +22,7 @@ Extrações brutas dos SIS
                      └─► Linkage da Trilha 1 ┐
                      └─► Linkage da Trilha 2 ┴─► Linkage final ─► Desduplicação sequencial
                                                                  └─► Validação manual
-                                                                       └─► Base consolidada (N = 11.536)
+                                                                       └─► Base consolidada (N = 9.664)
                                                                              └─► Indicadores + correção AHP
 ```
 
