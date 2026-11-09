@@ -24,7 +24,7 @@ Fluxo: [`workflows/FinalLinkage.yxmd`](../workflows/FinalLinkage.yxmd)
 | das quais: óbitos no período (SIM) | 1.395 |
 | das quais: sem registro de óbito | 8.269 |
 
-Essas são **contagens observadas**. As estimativas de incidência e prevalência são obtidas depois (correção pelo AHP seguida de estimação bayesiana com prioris de estudos anteriores) e são relatadas nos artigos de desfecho.
+Essas são **contagens observadas**. As estimativas de incidência e prevalência são obtidas depois (correção pelo AHP) e são relatadas nos artigos de desfecho.
 
 ## Canvas do Alteryx
 

@@ -24,7 +24,7 @@ Workflow: [`workflows/FinalLinkage.yxmd`](../blob/main/workflows/FinalLinkage.yx
 | of whom: died during the period (SIM) | 1,395 |
 | of whom: no death record | 8,269 |
 
-These are **observed counts**. Incidence and prevalence estimates are obtained afterwards (AHP correction followed by Bayesian estimation with priors from previous studies) and are reported in the separate outcome articles.
+These are **observed counts**. Incidence and prevalence estimates are obtained afterwards (AHP correction) and are reported in the separate outcome articles.
 
 ## Alteryx canvas
 
